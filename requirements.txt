@@ -1,0 +1,8 @@
+telethon
+requests
+requests[socks]
+requests_toolbelt
+user_agent
+mega
+mega.py
+python-worker

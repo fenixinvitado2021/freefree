@@ -1,0 +1,26 @@
+{
+  "name": "OwnCloudUploader",
+  "description": "Bot De Telegram : Descargador gratis de contenido desde internet a owncloud , nexcloud en cuba",
+  "repository": "https://github.com/ObisoftDev/ownclouduci",
+  "env": {
+    "bot_token": {6034620666:AAGDRqwRmUenDP_EhdvlBpwA26Gqiy-t-Ls
+      "description": "El token del bot"
+    },
+    "proxy_enc": {
+      "description": "Proxy Encriptado",
+      "value": "socks5h://KHDKKGYGJDJEGKYHJDGFGGYJIJIDRDGGLGGJKH"
+    },
+    "api_id": {24253609
+      "description": "Api Id de telegram",
+      "value": "24253609"
+    },
+    "api_hash": {20c1618672d0d23844bf79d8a25de44f
+      "description": "Api Hash de telegram",
+      "value": "20c1618672d0d23844bf79d8a25de44f"
+    },
+    "tl_admin_user": {"darielxd"}
+      "description": "Usuarios Permitidos",
+      "value": "darielxd"
+    }
+  }
+}
